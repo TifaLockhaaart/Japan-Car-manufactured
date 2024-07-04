@@ -9,7 +9,7 @@ Internal Attachment Project Members
 8)Levi Upendo
 9)Abigael Zawadi
 10)Dennis Gitau
-11) Ashley Babrah
+11)Ashley Babrah
 
 Our Findings are the following:
 i)There is a negative correlation between the mileage of the car and the car price judging from the scatter plots, line plots and correlation matrix
